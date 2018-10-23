@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Younes RM Discord's Bot Project
 
-You can use the [editor on GitHub](https://github.com/YounesRM/YounesRM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project will be using Python 3 programming lanuage and Discord servers to create a ChatBot which is able to communicate with the users and also learn at the same time as it gets new requests.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a Group project for Coventry University however i will provide the codes written by me seprately and also the whole complete project as well. all supposrt and contact will be available by my [GitHub Profile Page](https://github.com/younesrm)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Used Libraries in Python Project
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+import discord
+import asyncio
+import requests
+import http.client
+import json
+from discord.ext import commands
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The project is currently in early progress therefore visit this page again for regular updates.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YounesRM/YounesRM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Younes RM
