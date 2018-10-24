@@ -57,5 +57,7 @@ so in the example above the bot gets activated when the users send "!cinema" com
 this project is in early stage the commands will have better quality and more security. for example we will add updates to check if the postcode is valid before we try the request and in case of an error rather than crashing we will send the user a message to tell them what was wrong. aslo in terms of the robot working in a large community we need to make sure one user calls the bot for a command we only recieve additional information from the same user not others. an example could be one user calling the Cinema command and another use sending a fake or different postcode within 20s then bot will work with the first message which is not from the person who called the command.
 As i mentioned this project is currently in early progress therefore visit this page again for regular updates.
 
+[Access to the full Python Code](https://github.com/YounesRM/YounesRM.github.io/blob/master/Bot.py)
+
 ## Younes RM
 
